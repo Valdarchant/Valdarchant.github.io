@@ -1,0 +1,264 @@
+body{
+	background-color: white;
+}
+
+#shape1{
+	background-color: #E5E5E5;
+ 	width: 1384px;
+ 	height: 60px;
+ 	margin-left: -2%;
+ 	margin-top: -0.6%;
+}
+
+#logo{
+	display: block;
+	margin-top: -5.8%;
+	margin-left: -1%;
+}
+
+#compte{
+	display: block;
+	margin-top: -5.5%;
+	margin-left: 96%;
+}
+
+#gestion{
+	font-family: copperplate;
+	font-size: xxx-large;
+	margin-left: 20%;
+	color: #14213D;
+}
+
+#soulignage{
+	background-color: #FCA311;
+	width: 400px;
+	height: 3px;
+	margin-left: 28%;
+	margin-top: -2%;
+}
+
+#admin{
+	display: block;
+	margin-left: 66%;
+	margin-top: -5%;
+}
+
+#filtre{
+	font-family: copperplate;
+	text-decoration: underline;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+#shape2{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+}
+
+#utilisateur1{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description2{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter1{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter1{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#shape3{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#utilisateur2{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description3{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter2{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter2{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#shape4{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#utilisateur3{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description4{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter3{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter3{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#shape5{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#utilisateur4{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description5{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter4{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter4{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#shape6{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#utilisateur5{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description6{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter5{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter5{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#shape7{
+	background-color: white;
+	border: 2px solid #E5E5E5;
+	width: 900px;
+	height: 75px;
+	margin-left: 5%;
+	margin-top: 3%;
+}
+
+#utilisateur6{
+	display: block;
+	margin-left: 8%;
+	margin-top: -5.5%;
+}
+
+#description7{
+	font-family: arial;
+	margin-left: 20%;
+	margin-top: -3%;
+}
+
+#rejeter6{
+	display: block;
+	margin-left: 65%;
+	margin-top: -3%;
+}
+
+#accepter6{
+	display: block;
+	margin-left: 69%;
+	margin-top: -2.3%;
+}
+
+#page{
+	font-family: copperplate;
+	text-align: center;
+	margin-top: 5%;
+}
+
+#page:hover{
+	text-decoration: underline;
+}
+
+#suivant{
+	display: block;
+	margin-left: 58%;
+	margin-top: -4.3%;
+}

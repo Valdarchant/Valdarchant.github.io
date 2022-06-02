@@ -1,0 +1,244 @@
+body{
+	background-color: #E5E5E5;
+}
+
+#logo{
+	margin-left: 40%;
+	margin-top: -1%;
+}
+
+#shape1{
+	background-color: white;
+	width: 550px;
+	height: 500px;
+	margin-left: 27%;
+	display: block;
+}
+
+h1{
+	font-family: Copperplate;
+	margin-left: 42%;
+	margin-top: -35%;
+	font-size: x-large;
+}
+
+#nom{
+	font-family: Arial;
+	display: block;
+	margin-left: 35%;
+	margin-top: 2%;
+}
+
+#shape2{
+	background-color: #E5E5E5;
+	width: 180px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 34%;
+	margin-top: -0.2%;
+	border: none;
+	position: absolute;
+}
+
+#shape2:focus{
+	outline-color: #FCA311;
+}
+
+#prenom{
+	font-family: Arial;
+	display: block;
+	margin-left: 50%;
+	display: block;
+	margin-top: -1.5%;
+}
+
+#shape3{
+	background-color: #E5E5E5;
+	width: 180px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 49%;
+	margin-top: -0.2%;
+	border: none;
+}
+
+#shape3:focus{
+	outline-color: #FCA311;
+}
+
+#date {
+    display: block;
+    font: 1rem 'Arial', sans-serif;
+    margin-top: -7.5%;
+    margin-left: 49%;
+}
+
+input,#date1 {
+	display: block;
+    margin-left: 49%;
+    margin-top: 0.3%;
+    background-color: #E5E5E5;
+    border: none;
+    height: 30px;
+}
+
+#date1:focus{
+	outline-color: #FCA311;
+}
+
+#mdp{
+	font-family: Arial;
+	display: block;
+	margin-left: 35%;
+	display: block;
+	margin-top: 6%;
+}
+
+#condition{
+	font-family: Arial;
+	font-size: small;
+	color: #747474;
+	margin-left: 51%;
+	margin-top: -15%;
+}
+
+#shape4{
+	background-color: #E5E5E5;
+	width: 385px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 34%;
+	margin-top: 0.5%;
+	border: none;
+}
+
+#shape4:focus{
+	outline-color: #FCA311;
+}
+
+.formulaire{
+	margin-left: -1.5%;
+}
+
+#email{
+	font-family: Arial;
+	display: block;
+	margin-left: 35%;
+	display: block;
+	margin-top: 1%;	
+}
+
+#shape5{
+	background-color: #E5E5E5;
+	width: 385px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 34%;
+	margin-top: 0.2%;
+	border: none;
+}
+
+#shape5:focus{
+	outline-color: #FCA311;
+}
+
+#inscription{
+	background-color: #FCA311;
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-family: Copperplate;
+	border: none;
+	margin-left: 40%;
+	margin-top: 2%;
+	transition-duration: 1s
+}
+
+#inscription:hover{
+	background-color: #14213D;
+}
+
+#bouton:link{
+	text-decoration: none;
+}
+
+#ine{
+	display: block;
+	font-family: Arial;
+	margin-top: -3.8%;
+	margin-left: 34%;
+}
+
+#shape7:focus{
+	outline-color: #FCA311;
+}
+
+#shape7{
+	background-color: #E5E5E5;
+	border-radius: 50px;
+	margin-left: 33%;
+	margin-top: 0.2%;
+}
+
+hr{
+	width: 250px;
+	margin-left: 38%;
+	margin-top: 50%;
+}
+
+footer{
+   margin-top: 25%;
+   position:absolute;
+   margin-left: -1%;
+   z-index: 1;
+}
+
+#shape6{
+	background-color: #14213D;
+	width: 1384px;
+   height: 200px;
+}
+
+#logo1{
+	display: block;
+	margin-top: -12%;
+}
+
+#qsn{
+	font-family: Copperplate;
+	margin-left: 25%;
+	margin-top: -7.3%;
+	color: white;
+}
+
+#qsn1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#support{
+	font-family: Copperplate;
+	margin-left: 52%;
+	margin-top: -6.2%;
+	color: white;
+}
+
+#support1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#contact{
+	font-family: Copperplate;
+	margin-left: 70%;
+	margin-top: -7.8%;
+	color: white;
+}
+
+#contact1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}

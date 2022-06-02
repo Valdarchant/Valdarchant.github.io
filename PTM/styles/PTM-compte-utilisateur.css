@@ -1,0 +1,274 @@
+body{
+	background-color: white;
+}
+
+#shape1{
+	background-color: #E5E5E5;
+ 	width: 1384px;
+ 	height: 60px;
+ 	margin-left: -2%;
+ 	margin-top: -0.6%;
+}
+
+#logo{
+	display: block;
+	margin-top: -6.3%;
+	margin-left: -1%;
+}
+
+#compte{
+	display: block;
+	margin-top: -5.5%;
+	margin-left: 96%;
+}
+
+#donnees{
+	font-family: copperplate;
+	font-size: x-large;
+	margin-top: 5%;
+	margin-left: -0.5%;
+}
+
+#donnees:hover{
+	background-color: #FCA311;
+	width: 200px;
+	color: white;
+}
+
+#link1{
+	text-decoration: none;
+	color: black;
+}
+
+#reservation{
+	font-family: copperplate;
+	font-size: x-large;
+	margin-left: -0.5%;
+	margin-top: 5%;
+}
+
+#reservation:hover{
+	background-color: #FCA311;
+	width: 200px;
+	color: white;
+}
+
+#link2{
+	text-decoration: none;
+	color: black;
+}
+
+#gestion{
+	font-family: copperplate;
+	margin-left: -0.5%;
+	font-size: x-large;
+}
+
+#gestion:hover{
+	background-color: #FCA311;
+	width: 125px;
+	color: white;
+}
+
+#link3{
+	text-decoration: none;
+	color: black;
+}
+
+#link4{
+	text-decoration: none;
+	color: black;
+	font-family: Arial;
+}
+
+#link4:hover{
+	color: #FCA311;
+}
+
+#deconnexion{
+	display: block;
+	background-color: #FCA311;
+	width: 140px;
+	height: 50px;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	margin-left: 1%;
+	margin-top: 18%;
+	transition: all 1s;
+	animation-duration: 2s;
+  animation-name: slidein;
+  font-family: copperplate;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 8%;
+  }}
+
+#deconnexion:hover{
+	border: 1px solid #FCA311;
+	background-color: white;
+	color: #FCA311;
+}
+
+#link3{
+	text-decoration: none;
+}
+
+#shape2{
+	background-color: #E5E5E5;
+	width: 1144px;
+	height: 520px;
+	margin-left: 14.5%;
+	margin-top: -39.1%;
+	border: 2px solid #FCA311;
+}
+
+#compte1{
+	display: block;
+	margin-left: 50%;
+	margin-top: -37%;
+}
+
+#changer{
+	display: block;
+	background-color: #FCA311;
+	border: none;
+	color: white;
+	width: 160px;
+	height: 30px;
+	border-radius: 20px;
+	font-family: copperplate;
+	margin-left: 49.5%;
+	margin-top: 1%;
+}
+
+#changer:hover{
+	border: 1px solid #FCA311;
+	background-color: white;
+	color: #FCA311;
+}
+
+#nom{
+	display: block;
+	margin-left: 35%;
+	margin-top: 1%;
+	width: 500px;
+	height: 40px;
+	color: grey;
+}
+
+#nom:focus{
+	outline-color: #FCA311;
+}
+
+#prenom{
+	display: block;
+	margin-left: 35%;
+	margin-top: 1%;
+	width: 500px;
+	height: 40px;
+	color: grey;
+}
+
+#prenom:focus{
+	outline-color: #FCA311;
+}
+
+#INE{
+	display: block;
+	margin-left: 35%;
+	margin-top: -12%;
+	width: 500px;
+	height: 40px;
+	color: grey;
+}
+
+#INE:focus{
+	outline-color: #FCA311;
+}
+
+#email{
+	display: block;
+	margin-left: 35%;
+	margin-top: 5%;
+	width: 500px;
+	height: 40px;
+	color: grey;
+}
+
+#email:focus{
+	outline-color: #FCA311;
+}
+
+#mdp{
+	display: block;
+	margin-left: 35%;
+	margin-top: 0.8%;
+	width: 500px;
+	height: 40px;
+	color: grey;
+}
+
+#mdp:focus{
+	outline-color: #FCA311;
+}
+
+footer{
+   margin-top: 13.2%;
+   position:absolute;
+   margin-left: -1%;
+   z-index: 1;
+}
+
+#shape6{
+	background-color: #14213D;
+	width: 1384px;
+   height: 200px;
+}
+
+#logo1{
+	display: block;
+	margin-top: -12%;
+}
+
+#qsn{
+	font-family: Copperplate;
+	margin-left: 25%;
+	margin-top: -7.3%;
+	color: white;
+}
+
+#qsn1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#support{
+	font-family: Copperplate;
+	margin-left: 52%;
+	margin-top: -6.2%;
+	color: white;
+}
+
+#support1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#contact{
+	font-family: Copperplate;
+	margin-left: 70%;
+	margin-top: -7.8%;
+	color: white;
+}
+
+#contact1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+

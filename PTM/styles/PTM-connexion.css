@@ -1,0 +1,170 @@
+body{
+	background-color: #E5E5E5;
+}
+
+#logo{
+	margin-left: 40%;
+}
+
+#shape1{
+	background-color: white;
+	width: 400px;
+	height: 450px;
+	margin-left: 33%;
+}
+
+h1{
+	font-family: Copperplate;
+	margin-left: 42%;
+	margin-top: -31%;
+	font-size: x-large;
+}
+
+#mail{
+	display: block;
+	font-family: Arial;
+	font-size: small;
+	margin-top: 3%;
+	margin-left: 39%;
+}
+
+#shape2{
+	background-color: #E5E5E5;
+	width: 250px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 38%;
+	margin-top: 0.5%;
+	border: none;
+}
+
+#shape2:focus{
+	outline-color: #FCA311;
+}
+
+#mdp{
+	display: block;
+	font-family: Arial;
+	font-size: small;
+	margin-left: 39%;
+	margin-top: 2%;
+}
+
+#shape3{
+	background-color: #E5E5E5;
+	width: 250px;
+	height: 40px;
+	border-radius: 50px;
+	margin-left: 38%;
+	margin-top: 0.5%;
+	border: none;
+}
+
+#shape3:focus{
+	outline-color: #FCA311;
+}
+
+#mdpo{
+	font-family: Arial;
+	color: blue;
+	font-size: small;
+	margin-left: 46.5%;
+	margin-top: 0.5%;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+#mdpo:hover{
+	text-decoration: underline;
+}
+
+#connexion{
+	background-color: #14213D;
+	width: 200px;
+	height: 40px;
+	color: white;
+	font-family: Copperplate;
+	border: none;
+	margin-left: 40%;
+	margin-top: 1%;
+	transition-duration: 1s
+}
+
+#connexion:hover{
+	background-color: #FCA311;
+}
+
+hr{
+	width: 250px;
+	margin-left: 38%;
+	margin-top: 2%;
+}
+
+#inscription{
+	font-family: Arial;
+	margin-left: 36%;
+	margin-top: 3%;
+}
+
+#ci:hover{
+	text-decoration: underline;
+}
+
+footer{
+   margin-top: 5%;
+   position:absolute;
+   margin-left: -1%;
+   z-index: 1;
+}
+
+#shape4{
+	background-color: #14213D;
+	width: 1384px;
+   height: 200px;
+}
+
+#logo1{
+	display: block;
+	margin-top: -12%;
+}
+
+#qsn{
+	font-family: Copperplate;
+	margin-left: 25%;
+	margin-top: -7.3%;
+	color: white;
+}
+
+#qsn1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#support{
+	font-family: Copperplate;
+	margin-left: 52%;
+	margin-top: -6.2%;
+	color: white;
+}
+
+#support1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
+
+#contact{
+	font-family: Copperplate;
+	margin-left: 70%;
+	margin-top: -7.8%;
+	color: white;
+}
+
+#contact1{
+	font-family: Arial;
+	font-size: large;
+	color: white;
+}
